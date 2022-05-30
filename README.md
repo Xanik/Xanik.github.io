@@ -1,7 +1,6 @@
 <div align="center">
 	<h1>My Personal Portfolio</h1>
 	<p> Creative portfolio created bt using Kross jekyll Creative Portfolio Template ported from https://themefisher.com/products/kross-creative-portfolio-template/</p>
-	<a href="https://xanik.github.io/" >Live Preview</a>
 	<img src="https://user-images.githubusercontent.com/37659754/58154256-00627500-7c93-11e9-90c1-c145cb396902.gif"  width="100%" alt="personal portfolio template by xanik">
 </div>
 
