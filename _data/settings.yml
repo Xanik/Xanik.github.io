@@ -149,16 +149,16 @@ education:
 services-title: Services
 services:
   - {
-      name: Backend Engineering,
+      name: Devops,
       icon: ti-palette,
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
+      active: true,# Add true to select section
     }
   - {
       name: Devops,
       icon: ti-vector,
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: true, # Add true to select section
+      active: , # Add true to select section
     }
   - {
       name: Frontend Engineering,
