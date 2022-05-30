@@ -88,10 +88,10 @@ team:
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: Golang, color: "#fdb157", value: "90%" }
+  - { name: Python, color: "#9473e6", value: "60%" }
+  - { name: Microservice, color: "#bdecf6", value: "80%" }
+  - { name: AWS, color: "#ffbcaa", value: "70%" }
 
 #-------------------------------
 # Exprerience Section
@@ -99,22 +99,22 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
+      name: Backend Developer,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "May 2018 - Feb 2020",
+      organization: "SOFTCOM LIMITED",
     }
   - {
-      name: UX & UI Designer,
+      name: Go Developer,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "Feb 2020 - Dec 2021",
+      organization: "GPMD",
     }
   - {
-      name: Senior UI Designer,
+      name: Backend Software Engineer(Devex),
       icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      date: "Jan 2022 - Present",
+      organization: "CURVE UK LTD",
     }
 
 #-------------------------------
@@ -123,24 +123,24 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
+      name: Marters in Advanced Computer Science,
+      date: "2021",
+      organization: "Keele University",
     }
   - {
-      name: Honours in Fine Arts,
-      date: "2004",
+      name: BCS Honours in Architecture,
+      date: "2017",
       organization: "Harvard University",
     }
   - {
       name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
+      date: "2012",
+      organization: "Igbinedion Secondary School",
     }
   - {
       name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
+      date: "2006",
+      organization: "Afro Primary School",
     }
 
 #-------------------------------
@@ -149,19 +149,19 @@ education:
 services-title: Services
 services:
   - {
-      name: UI Design,
+      name: Backend Engineering,
       icon: ti-palette,
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       active: ,# Add true to select section
     }
   - {
-      name: UX Design,
+      name: Devops,
       icon: ti-vector,
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       active: true, # Add true to select section
     }
   - {
-      name: Interaction Design,
+      name: Frontend Engineering,
       icon: ti-panel,
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       active: ,# Add true to select section
