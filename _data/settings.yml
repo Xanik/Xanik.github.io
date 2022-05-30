@@ -2,14 +2,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: Xanik
 logo:
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+author: xanik
+description: personal portfolio for storing all my blogs and works
+email: sandraike57@gmail.com
+phone: +447440363035
+address: Greenwich, London
+copyright: Copyright &copy; 2020 Designed by [Xanik](https://github.com/Xanik) & [Themefisher](https://themefisher.com)
 
 menu:
   - { name: About, link: "/about" }
@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: Passionate for *opensource *code *github *remote *golang *vue *python & *docker. 📫 Experienced Software Developer with a demonstrated history of working in the information technology and services industry. Skilled in using JavaScript, Golang, and Scala Programming. Strong arts and design professional with a Bachelor of Architecture. Mainly focused in Building Software solutions and coding for fun. As a software engineer, the more I learn, the more I realise how much I still need to learn.💬
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
